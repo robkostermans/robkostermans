@@ -23,7 +23,7 @@ short description of the project with some highlights
 
 With a [direct link](https://www.nu.nl/economie/6138654/sector-voorziet-volgende-week-grote-stappen-op-weg-naar-meer-reizen.html)
 
-With a [internal links](#2_educationvumd)
+With a [internal links](../2_education/vu.md)
 
 and an image
 ![alt text](https://github.com/robkostermans/robkostermans.github.io/blob/main/docs/assets/paris.webp?raw=true)
@@ -41,11 +41,11 @@ short description of the project with some highlights
 ## Education
 
 
-<a name="2_education_educationmd"></a>
+<a name="2_education0_educationmd"></a>
 
 
 
-<a name="2_educationvumd"></a>
+<a name="2_education1_vumd"></a>
 
 ### Vrije Universiteit Amsterdam
 2005 - 2008
